@@ -16,4 +16,10 @@ steps:
     image: alpine
     commands:
     - echo hola
-    - echo worl
+    - echo world
+  
+  - name: es-angry
+    image: alpine
+    commands:
+    - echo hola
+    - echo motherfucker
