@@ -18,7 +18,7 @@ steps:
     - echo hola
     - echo world
   
-  - name: es-angry
+  - name: es-angry-person
     image: alpine
     commands:
     - echo hola
