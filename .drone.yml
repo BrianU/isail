@@ -23,3 +23,9 @@ steps:
     commands:
     - echo hola
     - echo motherfucker
+  
+  - name: es-very-angry-person
+    image: alpine
+    commands:
+    - echo hola
+    - echo motherfucker
