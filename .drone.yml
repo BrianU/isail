@@ -36,4 +36,3 @@ steps:
     - echo hola
     - echo motherfucker I is angry now-I can tell you
     - sleep 14
-      exit 1
