@@ -30,8 +30,9 @@ steps:
     - echo hola
     - echo motherfucker I is angry now
   
-  - name: es-very-angry-person-more
+  - name: es-very-angry-person-more-gonna-wait
     image: alpine
     commands:
     - echo hola
     - echo motherfucker I is angry now-I can tell you
+    - sleep 14
